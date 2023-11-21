@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Carlover101
-- 👀 I’m interested in coding, swimming, and technology.
-- 🌱 I’m currently learning bash and maybe C++.
-- 💞️ I’m looking to collaborate on really anything that has html, python, or bash
-- 📫 How to reach me [Home](mailto:zmanmustang2017@gmail.com)
+## Hey, I'm @Carlover101
+  - I like sleep, tech, and sports.
+  - My favorite projects that I've created are [Equation Solver](https://gtihub.com/Carlover101/equation-solver) and [Pong](https://github.com/Carlver101/equation-solver).
+    - They're my favorites because they're the projects that I've put the most love or time into.
+  - Reach out to me at `zmanmustang2017@gmail.com` to collaborate.
 
 <!---
 Carlover101/Carlover101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
