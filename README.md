@@ -1,6 +1,6 @@
 ## Hey, I'm @Carlover101
   - I like sleep, tech, and sports.
-  - My favorite projects that I've created are [Equation Solver](https://gtihub.com/Carlover101/equation-solver) and [Pong](https://github.com/Carlver101/equation-solver).
+  - My favorite projects that I've created are [Equation Solver](https://github.com/Carlover101/equation-solver) and [Pong](https://github.com/Carlver101/equation-solver).
     - They're my favorites because they're the projects that I've put the most love or time into.
   - Reach out to me at `zmanmustang2017@gmail.com` to collaborate.
 
